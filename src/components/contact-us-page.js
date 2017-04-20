@@ -5,7 +5,7 @@ export default class ContactUsPage extends Component {
   render() {
 
     return (
-      <div>ContactUs</div>
+      <div>ContactUs Place holder</div>
   );
 
   }

@@ -5,7 +5,7 @@ export default class CalendarPage extends Component {
   render() {
 
     return (
-      <div>Calendar</div>
+      <div>Calendar place holder</div>
   );
 
   }

@@ -5,9 +5,8 @@ export default class ActivitiesPage extends Component {
   render() {
 
     return (
-      <div>Activities</div>
+      <div>Activities place holder</div>
     );
 
   }
-
 }
